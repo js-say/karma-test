@@ -1,0 +1,30 @@
+{
+  "name": "karma-test",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/js-say/karma-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "js-say",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/js-say/karma-test/issues"
+  },
+  "homepage": "https://github.com/js-say/karma-test#readme",
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^1.3.0",
+    "mocha": "^3.5.0",
+    "should": "^11.2.1"
+  }
+}
